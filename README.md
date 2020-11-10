@@ -1,5 +1,9 @@
 # Cvičení: React události
 
+Náhled řešení na Netlify [cviceni-react-udalosti.netlify.app](https://cviceni-react-udalosti.netlify.app/).
+
+Kód ve složce `src`.
+
 ## Zadání
 
 1. Vycházej z kódu v tomto repozitáři.
