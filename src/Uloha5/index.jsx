@@ -21,5 +21,5 @@ export const NakupniPolozka = ({ nazev }) => {
 export const Uloha5 = () => {
 	const polozky = ['hrušky', 'jablka', 'třešně', 'jahody']
 
-	return polozky.map((nazev) => <NakupniPolozka nazev={nazev} />)
+	return polozky.map((nazev) => <NakupniPolozka key={nazev} nazev={nazev} />)
 }
