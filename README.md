@@ -1,8 +1,8 @@
 # Cvičení: React události
 
-Náhled řešení na Netlify [cviceni-react-udalosti.netlify.app](https://cviceni-react-udalosti.netlify.app/).
+Náhled výsledku na Netlify [cviceni-react-udalosti.netlify.app](https://cviceni-react-udalosti.netlify.app/).
 
-Kód ve složce `src`.
+Kód s řešením je ve složce `src`.
 
 ## Zadání
 
