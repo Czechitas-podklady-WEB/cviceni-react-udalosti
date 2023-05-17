@@ -7,7 +7,11 @@ export const NakupniPolozka = ({ nazev }) => {
 	return (
 		<div>
 			{nazev}{' '}
-			<button onClick={() => console.log(`Uživatel chce koupit ${nazev}`)}>
+			<button
+				onClick={() => {
+					console.log(`Uživatel chce koupit ${nazev}`)
+				}}
+			>
 				koupit
 			</button>
 		</div>

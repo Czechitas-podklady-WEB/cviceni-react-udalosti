@@ -10,7 +10,9 @@ export const Uloha2 = () => {
 			width={60}
 			height={60}
 			alt="hrad"
-			onMouseEnter={() => alert('„Na hradě je myš!')}
+			onMouseEnter={() => {
+				alert('„Na hradě je myš!')
+			}}
 		/>
 	)
 }
